@@ -1,4 +1,4 @@
-# NutriPlan-Asp.Net 🔥
+# NutriPlan-Asp.Net
 
 ![git algo](https://img.shields.io/badge/-ASP.NET%20core%20MVC-5F21E3?logo=.net&logoColor=FFFFFF) &nbsp;
 ![GitHub repo size](https://img.shields.io/github/repo-size/franciscozapata12346/NutriPlan-Asp.Net?style=for-the-badge) &nbsp;
