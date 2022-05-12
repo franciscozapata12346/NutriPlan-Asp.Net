@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BRXiDSLN7jaB4Qjjw0qILWaLDMq1JdYv6BcYBu24dkboAaLwq7bXmu0zUr+2+wzgI1NPfg0+dwO/gwJIRWKcZw==",
+  "dgSpecHash": "I0K52XwyDAvf+1b75aRV1t3zojhTfpP/DTTzz1p1S5mmkkIB5xw/1oFNwVX0fOB8g2yIARjFJikpeId/SkfCfg==",
   "success": true,
   "projectFilePath": "D:\\Cursos\\NutriPlan-Asp.Net\\NutriPlan\\NutriPlan\\NutriPlan.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512"
   ],
   "logs": []
 }

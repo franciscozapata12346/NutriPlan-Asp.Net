@@ -36,3 +36,4 @@ D:\Cursos\NutriPlan-Asp.Net\NutriPlan\NutriPlan\obj\Debug\netcoreapp3.1\NutriPla
 D:\Cursos\NutriPlan-Asp.Net\NutriPlan\NutriPlan\obj\Debug\netcoreapp3.1\NutriPlan.genruntimeconfig.cache
 D:\Cursos\NutriPlan-Asp.Net\NutriPlan\NutriPlan\obj\Debug\netcoreapp3.1\NutriPlan.csproj.CopyComplete
 D:\Cursos\NutriPlan-Asp.Net\NutriPlan\NutriPlan\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\Cursos\NutriPlan-Asp.Net\NutriPlan\NutriPlan\obj\Debug\netcoreapp3.1\NutriPlan.GeneratedMSBuildEditorConfig.editorconfig
