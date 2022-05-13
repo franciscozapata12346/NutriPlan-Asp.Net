@@ -10,8 +10,15 @@
 
   <ItemGroup>
     <Folder Include="Services\" />
-    <Folder Include="Resources\img\" />
     <Folder Include="Utilities\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Resources\img\nutriFondo.png" />
+    <None Include="wwwroot\Resources\img\nutriFondo2.png" />
+    <None Include="wwwroot\Resources\img\nutriFondo3.png" />
+    <None Include="wwwroot\Resources\img\nutriplan.png" />
+    <None Include="wwwroot\Resources\img\nutriplan3.png" />
   </ItemGroup>
 
 </Project>
